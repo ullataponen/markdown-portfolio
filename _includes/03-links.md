@@ -1,1 +1,1 @@
-[Ulla's Github] (https://github.com/ullataponen)
+[Ulla's Github](https://github.com/ullataponen)
